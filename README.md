@@ -16,7 +16,7 @@ cd FenrirCrack
 ```
 chmod +x FenrirCrack.py
 ```
-**Para instalar as dependências (importante executar esta opcao antes de iniciar normalmente)**
+**Para iniciar**
 ```
 ./FenrirCrack.py
 ```
